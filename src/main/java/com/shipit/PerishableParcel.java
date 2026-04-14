@@ -1,3 +1,5 @@
+package com.shipit;
+
 public class PerishableParcel extends Parcel {
     private static final int BASE_COST = 3;
     private int timeToLive;

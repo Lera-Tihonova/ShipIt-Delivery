@@ -1,3 +1,5 @@
+package com.shipit;
+
 public abstract class Parcel {
     protected String description;
     protected int weight;

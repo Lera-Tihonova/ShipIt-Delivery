@@ -1,3 +1,5 @@
+package com.shipit;
+
 public class StandardParcel extends Parcel {
     private static final int BASE_COST = 2;
 
